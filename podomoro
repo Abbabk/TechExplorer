@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodoro Productivity Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+        .card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-width: 500px;
+            width: 100%;
+        }
+        .card-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .card-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .timer {
+            text-align: center;
+        }
+        .timer-display {
+            font-size: 48px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .progress-bar {
+            width: 100%;
+            height: 10px;
+            background-color: #e0e0e0;
+            border-radius: 5px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        .progress {
+            width: 0%;
+            height: 100%;
+            background-color: #4caf50;
+            transition: width 1s linear;
+        }
+        .button-group {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            width: 70%;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .score {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="card-header">
+            <h2>Pomodoro Productivity Game</h2>
+        </div>
+        <div class="card-content">
+            <div class="timer">
+                <h3 id="timerLabel">Work Time</h3>
+                <div id="timerDisplay" class="timer-display">25:00</div>
+                <div class="progress-bar">
+                    <div id="progress" class="progress"></div>
+                </div>
+                <div class="button-group">
+                    <button id="startPauseBtn">Start</button>
+                    <button id="resetBtn">Reset</button>
+                </div>
+            </div>
+            <div>
+                <h3>Tasks</h3>
+                <div>
+                    <input type="text" id="taskInput" placeholder="Enter a new task">
+                    <button id="addTaskBtn">Add Task</button>
+                </div>
+                <ul id="taskList"></ul>
+            </div>
+            <div class="score">
+                <h3>Score</h3>
+                <div id="scoreDisplay">0</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let time = 25 * 60;
+        let isActive = false;
+        let isWork = true;
+        let score = 0;
+        let interval;
+
+        const timerLabel = document.getElementById('timerLabel');
+        const timerDisplay = document.getElementById('timerDisplay');
+        const progress = document.getElementById('progress');
+        const startPauseBtn = document.getElementById('startPauseBtn');
+        const resetBtn = document.getElementById('resetBtn');
+        const taskInput = document.getElementById('taskInput');
+        const addTaskBtn = document.getElementById('addTaskBtn');
+        const taskList = document.getElementById('taskList');
+        const scoreDisplay = document.getElementById('scoreDisplay');
+
+        function formatTime(time) {
+            const minutes = Math.floor(time / 60);
+            const seconds = time % 60;
+            return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        }
+
+        function updateTimer() {
+            timerDisplay.textContent = formatTime(time);
+            const totalTime = isWork ? 25 * 60 : 5 * 60;
+            const progressWidth = ((totalTime - time) / totalTime) * 100;
+            progress.style.width = `${progressWidth}%`;
+        }
+
+        function toggleTimer() {
+            isActive = !isActive;
+            startPauseBtn.textContent = isActive ? 'Pause' : 'Start';
+            if (isActive) {
+                interval = setInterval(() => {
+                    time--;
+                    updateTimer();
+                    if (time === 0) {
+                        clearInterval(interval);
+                        handleTimerComplete();
+                    }
+                }, 1000);
+            } else {
+                clearInterval(interval);
+            }
+        }
+
+        function resetTimer() {
+            clearInterval(interval);
+            isActive = false;
+            time = isWork ? 25 * 60 : 5 * 60;
+            startPauseBtn.textContent = 'Start';
+            updateTimer();
+        }
+
+        function handleTimerComplete() {
+            isActive = false;
+            if (isWork) {
+                score += 10;
+                alert("Great job! You've completed a work session. Take a 5-minute break.");
+                time = 5 * 60;
+            } else {
+                alert("Break's over! Ready for another productive session?");
+                time = 25 * 60;
+            }
+            isWork = !isWork;
+            timerLabel.textContent = isWork ? 'Work Time' : 'Break Time';
+            updateTimer();
+            updateScore();
+        }
+
+        function addTask() {
+            const taskName = taskInput.value.trim();
+            if (taskName !== '') {
+                const li = document.createElement('li');
+                li.innerHTML = `
+                    <input type="checkbox" onchange="toggleTask(this)">
+                    <span>${taskName}</span>
+                `;
+                taskList.appendChild(li);
+                taskInput.value = '';
+                score += 2;
+                updateScore();
+            }
+        }
+
+        function toggleTask(checkbox) {
+            const taskName = checkbox.nextElementSibling;
+            if (checkbox.checked) {
+                taskName.style.textDecoration = 'line-through';
+                score += 5;
+            } else {
+                taskName.style.textDecoration = 'none';
+                score -= 5;
+            }
+            updateScore();
+        }
+
+        function updateScore() {
+            scoreDisplay.textContent = score;
+        }
+
+        startPauseBtn.addEventListener('click', toggleTimer);
+        resetBtn.addEventListener('click', resetTimer);
+        addTaskBtn.addEventListener('click', addTask);
+
+        updateTimer();
+    </script>
+</body>
+</html>
