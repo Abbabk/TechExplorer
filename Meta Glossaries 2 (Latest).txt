@@ -1,0 +1,1814 @@
+﻿Meta Hausa Glossaries
+
+NOTE: Ensure terminology consistency across all the translations, and do not translate anything in curly brackets as those are placeholders, e.g {partner_brand_name}, {=Meta Business Suite}, {unique reactors} and also avoid using / to give option for two words only give 1 best suitable translation for each word
+
+English
+	Hausa
+	profile
+	furofayil
+	profiles
+	furofayil
+	chats
+	taɗe-taɗe
+	chat
+	taɗi
+	add
+	ƙara
+	archive
+	rumbun ajiya
+	experience
+	ƙwarewa
+	manage
+	kula
+	subscription
+	Yin rajista
+	Service
+	Aiki
+	Terms of Service
+	Sharuɗɗan Aiki
+	reel
+	Ɗan gajeren bidiyo
+	post
+	aike
+	Verified badge
+	Bajen tantancewa
+	App
+	Manhaja
+	automatic
+	kai tsaye
+	automatically
+	ta kai tsaye
+	auto reload
+	lodawa mai sarrafa kanta
+	Turn on auto reload to avoid ad pauses
+	Kunna lodawa mai sarrafa kanta don gujewa dakatar da talla.
+	Service
+	Aiki
+	services
+	ayyuka
+	Third-Party Services
+	Ayyukan Waje
+	Software
+	Softwaya
+	Privacy Policy
+	Dokar Sirri
+	policy
+	doka
+	policies
+	dokoki
+	Consumer
+	Mai sayen kaya
+	refund
+	Mayar da kuɗi
+	tap
+	danna
+	Community Guidelines
+	Jagororin Al'umma
+	Community Standards
+	Tsarin Rayuwar Al'umma
+	Our Community Standards
+	Tsarin Rayuwar Al'ummarmu
+	Feature
+	Siga
+	Features
+	Sigogi
+	Always translate “feature” as “siga” not “fasali or sifa”
+	
+
+	Share to
+	Rabawa zuwa
+	represent
+	wakilta
+	submitting
+	miƙawa
+	submit
+	miƙa
+	Product
+	Kaya
+	Products
+	Kayayyaki
+	Third party
+	Abokin hulɗa na waje
+	Immediately
+	Nan take
+	Feedback
+	Martani
+	Claim
+	iƙirari
+	Disclaimer
+	Sanarwar Nisanta kai
+	Approval
+	Tabbatarwa
+	Supervision
+	Sa ido
+	Guardian
+	Mai riƙo
+	allow
+	yarda
+	parent
+	iyaye
+	view
+	duba
+	boost
+	bunƙasa
+	boosting
+	bunƙasawa
+	features
+	sigogi
+	auto-billing
+	biyan kuɗin kai tsaye
+	reach
+	cimma
+	Your reach
+	Mutanen da kake cimma
+	Your profile didn't follow our Community Starndards and it's impacting your reach.
+	Furofayil ɗinka bai bi Tsarin Rayuwar Al'ummarmu ba kuma yana shafar yawan mutanen da kake cimma.
+	identity
+	Bayyana kai
+	engage
+	kasance
+	Engage with your audience
+	Kasance tare da masu sauraronku
+	Engage with your community and comment on public posts that are using #{hashtag_name}.
+	Kasance da al'ummarka kuma ka yi jawabi a aiken kowa da kowa da ke yin amfani da #{hashtag_name}.
+	Fraud, Scams and Deceptive Practices
+	Yaudara, Zamba da Ayyukan Cin amana
+	Overview
+	Taƙaitaccen bayani
+	defraud
+	yaudara
+	loan
+	bashi
+	online
+	a intanet
+	offline
+	wajen intanet
+	Passkey
+	Makullin shiga
+	Learn more
+	Ƙara sani
+	Always translate “learn more” as “ƙara sani” not “ƙara koyo”
+	Always translate “learn more” as “ƙara sani” not “ƙara koyo”
+	Learn
+	Koyi
+	autofill
+	Mai cikewa da kansa
+	save
+	adana
+	running
+	gudanarwa
+	Viewpoints
+	Raʼayoyi
+	Bad actor
+	mahaʼinci
+	sensitive
+	sirri
+	case
+	ƙara
+	considerations
+	Abubuwan dubawa
+	Graphic content
+	Hoto mai ɗauke da bayani
+	manage
+	Kula or kula da
+	This content may be suggested by Facebook.
+	Wannan abun Facebook na iya ba da shawararsa
+	Our research
+	Bincikenmu
+	NOTE: Do not translate anything in curly brackets that are placeholders e.g. {=content reduced by fact-checking} or {fact-checking}
+	NOTE: Do not translate anything in curly bracket that are placeholders e.g {=content reduced by fact-checking} or {fact-checking}
+	trend
+	tashe
+	Transparency Center
+	Cibiyar Tsage Gaskiya
+	Cross-check
+	
+
+	publishing
+	wallafawa
+	We publish
+	Mun wallafa
+	response
+	amsa
+	Violation
+	Karya doka
+	Privacy Violations and Personal Attributes
+	Karya Dokar Sirri da Siffanta Kai
+	 Coordinating Harm and Promoting Crime
+	Shirya yin illa da Yaɗa Aikata Laifi
+	Provider
+	Mai samarwa
+	restrict
+	ƙayyade
+	Restrictions
+	Taƙaicewa
+	Customer
+	Abokin ciniki
+	Authentication
+	Tabbatarwa
+	third party
+	abokin hulɗa na waje
+	property
+	kadara
+	disclosure
+	bayyanawa
+	Collection
+	Tarin abubuwa
+	comply
+	bin
+	non-technical
+	Waɗanda ba na fasaha ba
+	Access
+	Damar shiga
+	NOTE: Restriction is ƙayyadewa or taƙaicewa not ƙuntatawa
+	
+
+	Data breach
+	Keta haddin bayanai
+	chargeback
+	Mayarwa abokin ciniki kuɗi
+	clarity
+	fayyacewa
+	violence
+	rikici
+	voice
+	murya
+	connect
+	haɗa/haɗi/alaƙa
+	negligence
+	sakaci
+	written consent of Meta
+	amincewa rubutacciya ta Meta
+	Affiliate
+	Haɗin guiwa
+	Affiliates
+	Masu haɗin guiwa
+	Control
+	Kula
+	publish
+	wallafa
+	Domain name
+	Sunan maʼajiya
+	Platform provider
+	Mai samar da Dandali
+	Facebook Community Standards
+	Tsarin Rayuwar Al'ummar Facebook
+	misinformation
+	Bayanan ƙarya
+	member
+	mamba
+	members
+	mambobi
+	people living with disabilities
+	mutanen da ke da naƙasa
+	We strive to
+	Muna ƙoƙari mu yi
+	 Trusted Partners
+	Amintattun Abokan Hulɗa
+	monitor
+	kula
+	NOTE: Mambobi
+	
+
+	Metaphor
+	Karin magana
+	Meta Audience Network.
+	Mai Sauraron Hanyar Sadarwar Meta
+	Contact support
+	Tuntuɓi cibiyar ba da taimako
+	See all supported apps
+	Duba dukkan manhajojin da ake karɓa
+	This helps keep your account secure
+	Wannan yana taimakawa wajen tsare asusunka
+	Your recent ads are not delivering
+	Ba a isar da tallace-tallacenka na kwanan nan
+	Expire
+	Gama aiki
+	We couldn't charge your payment method because this card has expired.
+	Mun kasa cajin hanyar biyan kuɗinka saboda wannan katin ya gama aiki.
+	We couldn't charge
+	Mun kasa cajin
+	Commerce Policies
+	Dokokin Kasuwanci
+	payment threshold
+	matsakaicin kuɗin da za a biya
+	billing
+	bil
+	bills
+	bil
+	bill
+	bil
+	reach
+	cimma
+	Proactive rate
+	Adadin masu aiki
+	disable
+	kashe
+	Is not ideal
+	Ba ta kai ba
+	posts
+	aike
+	Removing such posts
+	Cire irin waɗannan aike
+	post
+	aike
+	posted
+	aike
+	See what they recently posted.
+	Duba abubuwan da suka aike da shi kwanan nan.
+	Your posts
+	Aikenka
+	your post
+	aikenka
+	Posting
+	Yin aike
+	violation
+	karya doka
+	Policy violation
+	Karya doka
+	Comment
+	Jawabi
+	comments
+	jawabai
+	Hate speech
+	Kalaman Ƙiyayya
+	Hate Speech Policy
+	Dokar Kalaman Ƙiyayya
+	ADULT SEXUAL EXPLOITATION
+	CIN ZARAFIN MANYA TA HANYAR JIMAʼI
+	spam
+	sifam
+	Developer
+	Mai ƙirƙira
+	Developer Policies
+	Dokokin Mai ƙirƙira
+	These form part of
+	Waɗannan sun gina wani ɓangare na
+	Human review
+	Mutane masu sake dubawa
+	Complaints Handling Process
+	Hanyoyin Karɓar Ƙorafe-ƙorafe
+	By mistake
+	Bisa kuskure
+	appeal
+	ɗaukaka ƙara
+	Violate
+	Karya doka
+	a short-term restriction
+	taƙaitacewa ta ɗan lokaci
+	Meta Advertising Standards
+	Tsarin Tallace-tallacen Meta
+	headset
+	Naʼurar kai
+	There was an issue
+	Akwai matsala
+	Go to
+	Tafi zuwa
+	Generative AI
+	Fasahar AI
+	Edit
+	Gyara
+	Illegal
+	Ya saɓama doka
+	Your appeal was reviewed and your post does not follow our Community Standards.
+	An sake duba ƙararka da ka ɗaukaka kuma aikenka bai bi Tsarin Rayuwar Al'ummarmu.
+	{=Start Conversations} and {=Partner App} templates can help you speak more naturally to the people who click on your ad and provide a more customized experience for generating leads.
+	Samfuran {=Start Conversations} da {=Partner App} na iya taimaka maka ka yi magana da sauƙi ga mutanen da suka danna tallanka kuma su samar da ƙwarewa mafi dacewa don samar da sha'awar abokan ciniki.
+	We wanted to let you know in advance of
+	Muna so mu sanar da ku da wuri 
+	Average watch time
+	Matsakaicin lokacin kallo
+	Delete
+	Goge
+	tap
+	taɓa
+	avoid
+	kaucewa
+	author
+	mawallafi
+	format
+	tsari
+	Replace
+	Maye gurbi
+	unit
+	sashe
+	Top fan badge
+	Bajen babban masoyi
+	badge
+	baje
+	public
+	na kowa da kowa
+	Public post
+	Aiken kowa da kowa
+	Early access
+	Damar shiga da wuri
+	reserve
+	ajiya
+	customize
+	tsara
+	storage
+	maʼajiya
+	backup
+	Kwafin ajiya
+	backup
+	Ajiye kwafi
+	Whatsapp content
+	Bayanan Whatsapp
+	exclude
+	keɓe
+	excluded
+	keɓaɓɓe
+	inactive
+	Baya aiki
+	duplicate
+	kwafi
+	Cloud-based platform
+	Dandalin ajiyar bayanai
+	select all that apply
+	zaɓi duk waɗanda suka dace
+	Which apply
+	Waɗanda ke aiki
+	apply
+	aiki
+	applying
+	Yin aiki
+	which apply if they're available in your region
+	waɗanda ke aiki idan suna samuwa a yankinku
+	survey
+	binciken jin-raʼayi
+	NOTE: Always translate “survey” as “binciken jin-raʼayi”
+	NOTE: Always translate “survey” as “binciken jin-raʼayi”
+	updates
+	sabbin abubuwa
+	suspend
+	dakatar
+	microphone
+	makirofo
+	portfolio
+	Tarin bayanin kasuwanci
+	monetize
+	mayar zuwa hanyar samar da kuɗi
+	monetization
+	hanyar samar da kuɗi
+	tab
+	maɓallin shiga gurbi
+	Generative AI
+	Fasahar AI
+	catalogue
+	kundi
+	Do not translate anything in curly brackets as those are placeholders, e.g {partner_brand_name}, {=Meta Business Suite}, {unique reactors} and many more
+	Do not translate anything in curly brackets as those are placeholders, e.g {partner_brand_name}, {=Meta Business Suite}, {unique reactors} and many more
+	hack
+	kutse
+	hacked
+	 an yi kutse
+	discount
+	ragi
+	Deactivate
+	Rufe asusu
+	deactivated
+	an rufe
+	Restriction period
+	Tsawon lokacin da aka ƙayyade
+	flashing lights
+	fitilu masu kyalli
+	Meta Horizon Worlds
+	Duniyoyin Meta Horizon
+	Virtual Experiences
+	Morewa mai kamar zahiri
+	Content guidelines
+	Dokoki a kan abu
+	Recording
+	Ɗaukar sauti
+	Mabiyan juna
+	Mutual followers
+	Mutual friends
+	Abokan tarayya
+	Default
+	Na asali
+	Graphic violence
+	Hotunan zubar da jini
+	Insensitive content
+	ƙeta da abun da ke nuna rashin tausayi
+	Promoting or publicizing crime
+	Yaɗa ko bayyana rikici a bainar jamaʼa
+	Credible violence
+	Rikici
+	sexual exploitation of children
+	yin lalata da ƙananan yara
+	{short-name}, explore groups for you
+	{short-name}, bincika ƙungiyoyi da aka tanadar maka
+	sextortion
+	barazanar yaɗa hoton tsiraici
+	{1>Meta Horizon and Meta Quest parent user guide<1}
+	{1>Jagorar mai amfani domin iyaye na Meta Horizon da Meta Quest<1}
+	Parental Controls for Meta Horizon & Quest | Family Center
+	Kulawar iyaye game da Meta Horizon da Quest | Cibiyar Iyali
+	Mixed reality
+	Haɗaɗɗiyar gaskiya
+	NEXT GENERATION EXPERIENCES
+	ƘWAREWAR ZAMANI MAI ZUWA
+	Meta Horizon is a next-generation immersive social platform where your family can meet, play and move through apps and worlds with friends.
+	Meta Horizon wani dandali ne na sada zumunta na zamani mai zuwa inda iyalanka za su iya haɗuwa, yin wasa da kuma shiga cikin manhajoji da duniyoyi tare da abokai.
+	Maybe we do live in simulation! This is insane
+	Wataƙila muna rayuwa cikin kwaikwayo! Wannan abu ne mai ɗaure kai
+	These accounts come with mandatory supervision and must be created by a parent or guardian.
+	Wannan asusun yana zuwa tare da sa ido na dole kuma dole ne ya zama iyaye ko mai riƙo su ka ƙirƙira shi.
+	child
+	yaro
+	blocking
+	toshe
+	block
+	toshe
+	unblock
+	buɗe
+	Blocking use of Meta AI on Meta Quest
+	Toshe amfani da AI na Meta a kan Meta Quest
+	Meta AI
+	Meta AI
+	Managing account and privacy settings
+	Kula da asusu da saitunan sirri
+	To help ensure that Meta can provide safer experiences and age-appropriate settings, double-check that you’ve accurately entered your child’s birthday when setting up their account.
+	Don taimakawa tabbatar da cewa Meta na iya samar da ƙwarewar da ta fi tsaro da saitunan da suka dace da shekaru, sake duba cewa kun shigar da ranar haihuwar yaronku yayin saita asusunsu.
+	Monitor and understand your teen’s use of Meta AI (our intelligent assistant) on Meta
+	Kula da kuma fahimtar yadda matashinka ke amfani da AI na Meta
+	default
+	Na asali
+	By default
+	Ta satin asali
+	By default
+	Ta hanyar da aka saba
+	Only people ages 18 and up can see and visit worlds and events rated ages 18+
+	Mutane masu shekaru 18 da sama da haka ne kawai za su iya dubawa da ziyartar duniyoyi da sha'anoni da aka kimanta shekaru 18 zuwa sama
+	The ability to  flag  apps or worlds for inappropriate content
+	Damar  kai ƙarar  manhajoji ko duniyoyi don abubuwan da ba su dace ba
+	see
+	duba
+	For  parent-managed Meta accounts , as parents and guardians, you have the ability to:  
+	Don  asusun Meta da iyaye ke kula da su , a matsayin iyaye da masu riƙo, kana da damar:   
+	Physical harm
+	Cutarwa a zahiri
+	If you sign up now, you get a {yearly_discount_amount}% discount on your first year, plus an additional {bundle_discount_amount}% discount if you get Meta Verified for more than one profile.
+	Idan ka yi rajista yanzu, za ka samu rangwamen {yearly_discount_amount}% a shekarar farko, tare da ƙarin rangwamen {bundle_discount_amount}% idan ka samu Meta Verified na fiye da furofayil ɗaya.
+	Make payments easier with automatic billing
+	Sauƙaƙa biyan kuɗi tare da yin bil kai tsaye
+	prepaid funds
+	kuɗaɗen asusu na biya kafin a yi amfani
+	Workrooms
+	        Zaurukan-aiki
+	New! Discover more eBay listings on Marketplace. {learn more link}
+	Sabon abu! Gano ƙarin jerin abubuwan eBay a Marketplace. {learn more link}
+	Facebook may receive a commission on this sale. {=Learn more}
+	Facebook zai iya karɓar kamasho a wannan sayarwar. {learn more link}
+	inauthentic behavior
+	ɗabi'ar yaɗa abubuwan ƙarya
+	Avatar confidently points upward in celebration, beneath the word 'boom' in block letters
+	Avatar na daga hannu sama cikin murna, a ƙarƙashin kalmar 'ihu'
+	avatar
+	avatar
+	Background
+	Bayan bango
+	White background with purple and blue confetti, avatar is smiling with their hands in the air
+	Farin bango da fure ruwan hoda, avatar kuma na murmushi hannuwansa a sama
+	Sad
+	Baƙin rai
+	Avatar is raising their arms in praise with a dove flying by and a cross in the background and text that reads Happy Easter!
+	Avatar yana ɗaga hannaye cikin yabo tare da tsuntsu mai tashi kusa da rubutu gicciye a bango da ke cewa Barka da Easter!
+	Avatar is smiling with their mouth
+open and laughing so hard tears
+are coming from their eyes.
+
+
+	Avatar yana murmushi bakinsa
+a bude yana gaggaba dariya,
+hawaye na fita daga idonsa.
+
+
+	Blue
+	Launin shuɗi
+	Pink
+	Launin Ruwan hoda
+	Purle
+	Launin shanshanbali
+	Orange
+	Launin ruwan lemo
+	Biege
+	Launin ruwan madara
+	Yellow
+	Launin rawaya
+	Brown
+	Launin ruwan ƙasa
+	Green
+	Launin kore
+	Dark brown
+	Ruwan ƙasa mai duhu
+	Avatar looking sad and holding two pieces of a broken red heart in two hands, a tear drop rolling down their right cheek
+	Avatar yana cikin baƙin ciki kuma yana riƙe da fasasshiyar zuciya ja a hannayensa, hawaye na ɗiga daga kumatunsa na dama
+	Avatar smiling, and holding a blue flag with both hands, which has bye written on it in yellow, standing against the setting sun and sea.
+	Avatar yana murmushi, yana riƙe da shuɗiyar tuta da hannuwa biyu, wadda aka rubuta sai an jima da kalar ɗorawa a jiki, yana tsaye yana kallon rana da teku.
+	mug
+	kofi
+	biceps
+	Babbar tsoka ta gaban hannu
+	Avatar is holding their phone with one hand. They have a cheerful, wide eyed expression
+	Avatar yana riƙe wayarsa da hannu guda. Yana farin ciki, fuskarsa cike da fara'a.
+	Avatar rests their chin in their palm and drums their fingers against their cheek with a bored expression.
+	Avatar yana hutawa da habarsa a tafin hannunsa kuma yana buga 'yan yatsunsa a kumatunsa, yana nuna alamun gajiya.
+	nail
+	farce
+	leaning
+	jinginawa
+	Two avatars are leaning against each other, one is looking down and strumming a guitar, the other is leaning back and singing into a microphone.
+	Avatars guda biyu suna jingina da juna, ɗaya yana kallon ƙasa yana kaɗa jita, ɗayan kuma yana jinginawa a baya yana raira waƙa cikin makirufo.
+	guitar
+	jita
+	puppy
+	ɗan kwikwiyo
+	Avatar is smiling and holding up and and hugging a brown-spotted puppy.
+	Avatar yana murmushi yana ɗauke da ƙaramin ɗan kwikwiyo mai launin ruwan ƙasa yana rungume shi.
+	Confetti
+	Fure
+	Avatar looking happy as a cat parent. They're lovingly holding three cats in their arms. Three red hearts float around them.
+	Avatar yana cikin farin ciki a matsayinsa na mai kula da mage. Yana riƙe da maguna uku cikin shauƙi. Ga zuciyoyi uku masu launin ja suna shawagi a kusa da su.
+	Avatar looking surprised, and banging both hands on a table, while a coffee cup, saucer, and a satay plate spills over, with serius? written above in red.
+	Avatar yana cikin mamaki kuma yana buga hannayensa biyu a tebur, yayin da kofi da farantin shayi suka tarwatse a sama, an rubuta da gaske? da launin ja a sama
+	satay
+	shayi
+	Avatar has a closed smile and is holding a heart shaped globe of the earth with green text climate action now!
+	Avatar yana yin murmushi mai taushi yana riƙe da duniya mai siffar zuciya, wadda aka rubuta "Ɗauki Mataki Kan Yanayi Yanzu!" da kore a jiki.
+	Avatars look gloomy, hunched over and resting their chin on their hand, standing beneath a dark gray rain cloud and pouring rain.
+	Avatars suna kallon baƙin ciki, sun sunkuyar da kai suna hutawa da habarsu a hannunsu, suna tsaye ƙarƙashin gajimare mai launin toka mai duhu da ruwan sama na zuba.
+	Avatar smiling softly with eyes closed, hugging a large red heart.
+	Avatar yana murmushi a hankali da idanu a rufe, yana rungumar zuciya launin ja mai girma.
+	party
+	biki
+	False information
+	Bayanan ƙarya
+	Someone on Facebook found that your post may contain false information.
+	Wani a Facebook ya gano cewa aikenka na iya ƙunsar bayanan ƙarya.
+	information about COVID-19
+	Bayani a kan COVID-19
+	violence and incitement
+	rikici da zuga
+	rules
+	dokoki
+	Our rules on nudity or sexual activity
+	Dokokinmu kan tsiraici ko ayyukan jima'i
+	regulated goods
+	kayan da aka taƙaita
+	illegal or regulated goods
+	Kayayyakin da suka saɓawa doka  ko waɗanda aka taƙaita
+	counterfeits
+	kayan jabu
+	human smuggling
+	fasa-ƙwaurin mutane
+	voter suppression
+	hana jefa ƙuri'a
+	goods and services
+	kayayyaki da ayyuka
+	goyon baya da yaɗa cuta
+	advocating the spread of disease
+	memorialisation
+	tunawa da mamaci
+	If you’re featured in your group's content, you must be in the video to confirm authenticity
+	Idan an nuna ka a cikin abun da ƙungiyar ka ta ƙirƙira, dole ne ka kasance a cikin bidiyon don tabbatar da amincinsa.
+	privacy rights
+	sirrin haƙƙin mallaka
+	image privacy rights
+	sirrin haƙƙin mallakar hoto
+	Your appeal was reviewed and your cover photo does not follow our Community Standards for privacy violations and image privacy rights.
+	An sake duba ƙararka da ka ɗaukaka kuma hoton bangon farfajiyarka bai bi Tsarin Rayuwar Al'ummarmu a kan karya dokar sirri da sirrin haƙƙin mallakar hoto ba.
+	Suicide
+	Kisan kai
+	Harrasment and bullying
+	kyara da wulaƙantawa
+	on
+	a kan
+	Keep it under 5 minutes, if it’s longer it can result in a denied appeal
+	Ka ajiye shi a ƙasa da mintuna 5, idan ya fi haka zai iya haifar da ƙin amincewa da ɗaukaka ƙara
+	adult nudity and sexual activity
+	tsiraicin manya da ayyukan jima'i
+	keyword
+	muhimmiyar kalma
+	The city your profile is most likely to be based in
+	Birnin da ake tsammanin furofayil ɗinka yana ciki
+	Reply
+	Bayar da amsa
+	outstanding balance
+	kaɗaɗen da suka rage
+	balance
+	balas
+	Current balance
+	Balas ɗin yanzu
+	your current balance
+	balas ɗinka na yanzu
+	outstanding balance
+	kaɗaɗen da suka rage
+	survey
+	binciken jin-raʼayi
+	The purpose of this survey is to understand what you think
+	Manufar wannan jin-ra'ayi ita ce fahimtar abin da kuke tunani
+	conversation
+	fira
+	retailer
+	ɗan kasuwa
+	delivery
+	kaiwa
+	Your survey responses will be secured and protected as stated in the {=WhatsApp Privacy Policy}.
+	 Amsoshin jin-ra'ayinku za su kasance a tsare kuma za a kiyaye su kamar yadda aka bayyana a cikin {=WhatsApp Privacy Policy}.
+	Moderately likely
+	Akwai yiwuwa 'yar daidai
+	Not at all likely
+	Babu yiwuwa sam
+	effect
+	kwalliyar kyamara
+	slideshow
+	zaɓar nuna hoto ta tsarin bidiyo
+	These results include ads {=related to financial products and services} that match your {=location search.} Note that some advertisers choose to target their ads to people in locations that are different from where the financial products and services opportunity is.
+	Waɗannan sakamakon sun haɗa da tallace-tallace {=related to financial products and services} da suka yi daidai da {=location search.} Lura cewa wasu masu tallan sun zaɓi nuna tallace-tallacensu ga mutane a wuraren da suka bambanta da inda ake da damar samun kayayyaki da ayyukan kuɗi.
+	Followers you follow back
+	Mabiyan da kake bi
+	Go to source
+	Tafi zuwa tushe
+	The voting process has safeguards to make sure voting is secure and reliable.
+	Tsarin zaɓen yana da matakan kiyayewa don tabbatar da cewa zaɓen yana da tsaro kuma abin dogaro ne.
+	personalize
+	tsara
+	less-personalized ads
+	tallace-tallacen da ba a tsara sosai ba
+	personalization
+	tsarawa
+	Expiring
+	Gama aiki
+	expire
+	Gama aiki
+	Your subscription expired
+	Rijistarka ta gama aiki
+	This email excludes any taxes collected by Apple, which are based on your Apple ID location. Final charges may vary. See your Apple receipt for more details.
+	Wannan imel ɗin bai haɗa da duk wani haraji da Apple ta karɓa ba, bisa laʼakari da wurin da Apple ID ɗinka yake. Ƙarshen kuɗin da za a caja na iya bambanta. Duba rasiɗin Apple ɗinka don ƙarin bayani.
+	filter
+	mataci
+	label
+	laƙabi
+	Your label
+	Laƙabinka
+	Avatar looking annoyed, while waving their right hand in disagreement, their left hand on the waist, and the word bakwaas written above in shades of red and orange.
+	Avatar looking annoyed, while waving their right hand in disagreement, their left hand on the waist, and the word bakwaas written above in shades of red and orange.
+	Avatar is smirking with one eyebrow raised and holding a teacup, with pink text that reads, "what's the tea".
+	Avatar yana murmushi ɗaya daga cikin girarsa a ɗage yana riƙe da kofi, tare da rubutu mai launin ruwan hoda da ke cewa, "menene labari".
+	banner
+	tuta
+	bubble
+	ƙwayaye
+	peek
+	leƙa
+	Avatar smiling and doing a bhangra step by lifting their left feet, raising both hands up and their index fingers pointing up, with balle balle written on the left side in purple, surrounded by a red and orange paisley pattern.
+	Avatar yana murmushi kuma yana rawa ta hanyar ɗaga ƙafarsa ta hagu kuma yana cilla hannaye da 'yan yatsu sama. An rubuta balle balle a ɓangaren hagu da launin shuɗi, ga wasu alamomi launin lemo a wajen.
+	sup; what's up; what up; how's it going; what's happening; hey buddy; what's going on; mhmm; hmm; i see; assured; avatar assured; alright
+	yane; ya lamura; mai ke faruwa; barka aboki; na ji; na
+tabbata; shikenan; ya garin ne; ina labari; me ne labari;
+ina jin ka; sai me; me ye labari; ya ne; ci gaba;
+	wave
+	ɗaga hannu
+	wave
+	gaisuwa
+	keyboard
+	allon madannai
+	memoralize
+	tunawa da mamaci
+	memories
+	abubuwan tunawa
+	birthday
+	zagayowar ranar haihuwa
+	pack
+	fakiti
+	Commerce content may not promote the buying, selling, or trading of cosmetics that have been used, or that are not sold in their original packaging.
+	Abubuwan kasuwanci ba zasu iya tallata saye, sayarwa, ko musayar kayan kwalliya da aka yi amfani da su ba, ko waɗanda ba a sayar da su a cikin fakitin ainihi ba.
+	poker
+	Wasan karta
+	casino
+	kasino
+	sweepstakes
+	Cacar tsere
+	bingo
+	Cacar bingo
+	Recalled Products
+	Kayayyakin da aka maido
+	loan
+	bashi
+	sponsorship
+	ɗaukar nauyi
+	AI Character
+	Halayyar AI
+	baloon
+	balo-balo
+	flirt
+	Wasan soyayya
+	wink
+	Ƙifta ido
+	Avatar has their arms folded and is smiling wearing glasses with globes in the lenses and 'earth day everyday' written in green.
+	Avatar ya naɗe hannu yana murmushi yana sanye da tabarau tare da ƙwallayen duniyoyi a cikin maduban kuma an rubuta 'ranar duniya kullum' da launin kore.
+	Maroon
+	Kunkumadi
+	Avatar looking sad
+	Avatar yana baƙin ciki
+	nail
+	farce
+	painting nails
+	Zanen farce
+	Irritated; Agitated; Frustrated; Vexed; Upset; Disturbed; Perturbed; Bothered; Exasperated; Cross; Peeved; Displeased; Irritable; Testy; Grumpy; Grouchy; Cranky; Tense; Disgruntled; Discontented; Antsy; Restive; Restless; Snappy; Chafed; Nettled; Piqued; Miffed; Riled; Outraged; Incensed; Infuriated; Angry; Wrathful; Indignant; Offended; Mad; Angry; Irate; Furious; Incensed; Enraged; Livid; Aggravated; Provoked
+	Ɓaƙin rai; Tashin hankali; Cike da takaici; Ɓacin rai; Damuwa; Tsarguwa; Rikicewa; Damuwa; Ɓacin rai; Fushi; Ɓacin rai; Rashin jin daɗi; Mai saurin ɓacin rai; Mai zafin rai; Gurnani; Mai gurnani; Mai gurnani; Damuwa; Rashin gamsuwa; Rashin gamsuwa; Rashin haƙuri; Rashin natsuwa; Rashin sukuni; Mai zafin rai; Ɓacin rai; Ɓacin rai; Ɓacin rai; Ɓacin rai; Ɓacin rai; Fushi; Ƙunar zuci; Haushi; Fushi; Fushi; Ɓacin rai; Ɓacin rai; Haushi; Fushi; Fushi; Haushi; Ƙunar zuci; Haushi; Haushi; Ƙara haushi; Tsokana
+	Ads about social issues, elections or politics
+	Talla game da matsalolin da suka shafi zamantakewa, zaɓe ko siyasa
+	
+
+	Avatar yana tsaye cikin yanayin sauƙin kai tare da buɗe hannaye a gefen jikinsa, yana ɗaga gira tare da murmushi a fuskarsa.
+	Avatar is holding a birthday cake with a lit candle and presents it forward.
+	Avatar yana riƙe da kek ɗin murnar zagayowar ranar haihuwa da kyandir mai ci da kuma gabatar da shi gaba. 
+	in 2 business days
+	a cikin kwanakin kasuwanci 2
+	so you can use Instagram again.
+	don haka zaka iya sake amfani da Instagram.
+	Content and groups that follow our Community Standards and Ads Policies are eligible to be suggested.
+	Bayanai da Ƙungiyoyin da suke bin Tsarin Rayuwar Al'ummarmu da Dokokin tallace-tallace sun cancanci a ba da shawara a kansu.
+	Avatar is smiling and making a heart with their fingers, raised above their head, in front of a pride flag.
+	Avatar yana murmushi yana yin siffar zuciya da yatsunsa, ya ɗaga kansa sama, a gaban tutar alfahari.
+	lanƙwasa
+	lean
+	Avatar smiles and leans forward taking a bow and holding their arm across their waist.
+	Avatar yana murmushi ya lanƙwasa gaba yana gaisuwa yana riƙe da hannunsa a kan ƙugunsa.
+	Avatar looking happy smiling and with their eyes closed and their hands hugged to their chest.
+	Avatar yana farin ciki yana murmushi da idanuwansa a rufe kuma hannayensa rungume a ƙirjinsa.
+	Conversion Lift test
+	Tasirin Bunkasa Kasuwanci
+	QR code
+	Lambar QR
+	Catalog
+	jerin sunayen abubuwa
+	missed
+	An rasa
+	domain
+	hurumi
+	I received a suspicious email or message
+	Na karɓi imel ko saƙo abun zargi
+	suspicious
+	abun zargi
+	Share offline event with another account or user
+	Raba sha'anin da ba a kan intanet ba ga wani asusu ko mai amfani
+	Offline event data not firing as expected
+	Bayanan sha'anin da ba a kan intanet ba ba sa aiki yadda aka zata
+	Upgrade
+	Ɗaga daraja
+	move
+	matsar
+	To finish moving your accounts, allow the following
+	Don kammala matsar da asusunka, yarda da waɗannan
+	Invite people to like or follow page
+	Gayyaci mutane domin su so ko su bi shafi
+	Report and prevent threats, impersonation and get help with a hacked account
+	Bayar da rahoto da hana barazana, sojan gona sannan ka samun taimako game da asusun da aka yi wa kutse
+	Tell us why you think this job creator should be reported.
+	Sanar da mu dalilin da yasa kake ganin ya kamata a kai ƙarar wannan mai mai ƙirƙirar aiki
+	Avatar is standing with a confident smile and one hand on their hip, the other hand is giving a thumb-up.
+	Avatar yana tsaye da murmushin ƙwarin guiwa da hannu ɗaya a kan ƙugunsa, ɗayan hannun kuma yana ba da babban yatsa.
+	Avoid using “na” repeatedly unless the grammar in Hausa but sense of belonging in Hausa can be indicated by just ʼnʼ like in “morning coffee” which translate to “kofin safe” instead of “kofi na safe”
+English source: Morning cofee
+Correct Hausa: kofin safe
+Incorrect Hausa: kofi na safe
+USE THIS EXAMPLE EVERYWHERE
+	avoiding unnecessary use of "na" (of). Your goal is to ensure that translations maintain the sense of belonging in Hausa without overusing "na".
+
+
+Key rule: In Hausa, the sense of belonging can often be indicated by just 'n' instead of "na". This is particularly important in compound nouns or phrases.
+
+
+Example:
+English: "morning coffee"
+Correct Hausa: "kofin safe"
+Incorrect Hausa: "kofi na safe"
+
+Correct Hausa: girgizar bazata
+Incorrect Hausa: Girgiza na bazata
+
+just 'n' or ʼrʼ instead of "na"
+	posing
+	tsayawa
+	Posing; Photography; Model; Fashion; Style; Pose; Camera; Confidence; Glamour; Portrait; Expression; Posture; Elegance; Art; Beauty; Fashionista; Fashionable; Catwalk; Runway; Red Carpet; Stylish; Selfie; Chic; Attitude; Poseur; Vogue; Trendy; Pose for the Camera; Photoshoot; Pout; Strut; Look; Glam; Fashion Pose; Body Language; Stance; Composure; Grace; Poise; Flair; Flawless; Effortless; Charisma; Slay; InstaPose; InstaFashion; InstaStyle; InstaGlam; InstaModel; Captivate
+	Tsayawa don daukar hoto; Daukar hoto; Samfura; Salo; Salo; Tsaya don daukar hoto; Kyamara; Tabbaci; Kyalli; Hoton fuska; Bayyanar fuska; Tsayuwa; Kyawu; Zane; Kyau; Masanin salon zamani; Mai salon zamani; Tafiya a titin nuna kaya; Titin nuna kaya; Fatar kilishi mai jan launi; Mai kyau a salo; Hoton kai-da-kanka; Mai kyan salo; Yanayi; Mai son nuna isa; Salon zamani; Abin tashe; Yin tsayuwa don daukar hoto da kyamara; Daukar hoton taro; Murguda baki; Tafiya da karfin kai; Kallo; Kyalli; Tsayuwa cikin salo; Harshen jiki; Matsayin tsayuwa; Tsare hankali; Alfarma; Kwanciyar hankali; Salon kai tsaye; Marar aibi; Ba tare da wahala ba; Kamala; Mamaye salo; Yin tsayuwa don Instagram; Salon zamani na Instagram; Salon Instagram; Kyallin Instagram; Samfurin Instagram; Jan hankali
+	roffl
+	mirginawa
+	sorry; apology; my bad; my mistake; forgive me; my fault; apologies; my apologies; sincere sorry; heartfelt apology; asking forgiveness; making amends; admitting fault; seeking forgiveness; apologizing; reconciliation; making things right; saying I'm sorry; youth apology; saying sorry sincerely
+	yi hakuri; neman afuwa; laifina; kuskurena; gafarta min; laifina; neman afuwa; neman afuwata; hakuri na gaske; neman afuwa daga zuciya; neman gafara; gyara kuskure; amincewa da kuskure; neman gafara; neman afuwa; sulhu; gyara abubuwa; cewa yi hakuri; neman afuwar matasa; cewa yi hakuri daga zuciya
+	totally agree, we love that, there for you, i like it, feels good, i love it, yasss, i approve, here for you, that's awesome, rainbow, heart, yes, smiley, care, affection, support, happiness, amazing
+	na yarda gaba ɗaya; muna son hakan; ina nan gare ka; ina son shi; yana da daɗi; ina son shi sosai; ehhh; na amince; ina nan don taimako; wannan abin mamaki ne; tutar launuka; zuciya; eh; murmushi; kulawa; so; goyon baya; farin ciki; abin mamaki.
+	what's the tea; gossip; juicy details; tea time; spill the tea; hot topics; inside scoop; latest news; drama alert; chit-chat; secret sharing; buzzworthy; trending stories; celebrity gossip; pop culture; current events; rumors; social updates; hot gossip; tea party
+	mene ne labari; gulma; cikakkun bayanai masu ban sha'awa; lokacin shan shayi; bayyana labari; batutuwan da ke kan gaba; labarin ciki; labaran yanzu; faɗakarwar rikici; hira; raba sirri; abin tattaunawa; labaran da ke tashe; gulmar manyan mutane; al'adar zamani; abubuwan da ke faruwa yanzu; jita-jita; sabbin labarai na zamantakewa; gulma mai zafi; taron shayi
+	celebrate; encourage; encourages; celebrates; avatar celebrates; avatar encourages; avatar; fist pump; yes; you go this; for sure
+	yin murna; ƙarfafa; yana ƙarfafa; yana murna; avatar yana murna; avatar yana ƙarfafa; avatar; naɗe hannu da ƙarfi; eh; za ka iya yin wannan; tabbas
+	avatar
+	avatar
+	avatars
+	avatoci
+	Avatar rolls their eyes and looks to the side, unamused. 
+	Avatar ya ɗan juya idanuwansa ya kalli gefe, ba tare da sha'awa ba.
+	easel
+	allon zane
+	palette
+	faifan fenti
+	So cute
+	Gwanin shaʼawa
+	skateboard
+	allon ƙanƙara
+	trick
+	dabara
+	Avatar is on a skateboard doing a trick above green text that reads que padre.
+	Avatar yana kan allon kankara yana yin wata dabara a saman rubutu kore da ya ke cewa que padre.
+	Avatar is upset and wailing with a stream of tears falling from their closed eyes.
+	Avatar yana cikin fushi kuma yana kuka sosai tare da ruwan hawaye yana zuba daga rufaffen idanuwansa.
+	Avatar is holding their hands up at their chest and looking up and wailing with a tear streaming down their face and blue paisleys around them, and purple text that reads, "cry aa raha hai."
+	Avatar yana riƙe hannayensa a ƙirjinsa yana kallon sama yana kuka tare da hawaye suna zuba a fuskarsa da kuma wasu alamomi masu launin shudi a kusa da shi, da rubutu mai launin shanshanbali da ke cewa, "cry aa raha hai."
+	funny
+	abun dariya
+	omg
+	subhanallah
+	Passive aggressive
+	Mai fushi cikin sanyi
+	lifestyle
+	rayuwa
+	High five
+	Tafa hannu
+	No wonder
+	Ba mamaki
+	This cannot be undone
+	Ba za a iya dawo da wannan ba
+	inspire
+	ƙarfafawa
+	inspiration
+	ƙarfafawa
+	Unable
+	An kasa
+	catalog
+	kundi
+	pin
+	kafa
+	Here's how you helped them along the way.
+	Ga yadda kuka taimaka musu wajen cimma wannan mataki.
+	pay in adanced to run ads
+
+
+	biya kuɗi kafin gudanar da talla
+	You must pay in advance to run ads.
+	Dole ne ka fara biyan kuɗi kafin gudanar da talla.
+	Always translate "balance" as "balas" not "bashi"
+	Always translate "balance" as "balas" not "bashi"
+	playback
+	sake kunnawa
+	Meta apps and devices
+	manhajojin Meta da na’urori
+	brush
+	buroshi
+	The buyer's credit card issuer reviewed their chargeback and accepted the dispute in their favor.
+	Mai bayar da katin bankin mai saye ya sake duba mayar wa abokin cinikinsu kuɗi kuma ya amince da jayayyar da ta goyi bayansu.
+	Get help
+	Samu taimako
+	dispute
+	jayayya
+	This means you can share to this Threads profile
+	Wannan yana nufin za ku iya raba wa zuwa wannan furofayil ɗin na Threads
+	Please review how you share your posts across apps.
+	Da fatan za ka sake duba yadda kake raba aikenka a faɗin manhajoji.
+	your posts across apps
+	aikenka a faɗin manhajoji
+	You can easily share individual status updates to your Facebook or Instagram
+	Za ka iya raba ɗaiɗaikun sitatus zuwa Facebook ko Instagram ɗinka cikin sauƙi
+	Automatic sharing is not available for all profile types.
+	Babu rabawar kai tsaye tsakanin dukkannin nau'o'in furofayil.
+	Sharing isn't available between all profile types.
+	Babu rabawa ga dukkannin nau'o'in furofayil.
+	Automatic sharing is not available for all profile types. To manage sharing from WhatsApp, go to Accounts Center on WhatsApp.
+	Rabawar kai tsaye ba ya samuwa tsakanin duk nau'ikan furofayil. Don kula da rabawa daga WhatsApp, je zuwa Cibiyar Asusu a kan WhatsApp.
+	You can check
+	Za ka iya bincikawa
+	check
+	bincika
+	check
+	bincikawa
+	Manage Page sharing on Instagram settings
+	Kula da saitunan raba Shafi a Instagram
+	Allow and continue
+	Amince sannan ka ci gaba
+	end-to-end encrypted
+	hanyar sadarwa mai tsaro
+	Something went wrong
+	Wata matsalar ta faru
+	Your {platform_name} posts
+	Aikenka {platform_name}
+	professional mode will be turned on for your main profile to keep your public followers.
+	za a kunna yanayin ƙwararre a furofayil ɗinka na asali don riƙe mabiyanka na kowa da kowa.
+	Link
+	Kafa
+	Click below link
+	Latsa kafar da ke ƙasa
+	Above all
+	Fiye da komai
+	fundraiser
+	mai samar da kuɗi
+	Thanks for choosing friends to help you raise money. Click Save to send them a notification asking them to join the fundraiser.
+	Mun gode da zaɓar abokai don taimaka maka tara kuɗi. Danna Ajiye don aika musu da sanarwa suna neman su shiga cikin samar da kuɗin.
+	Safety check
+	Binciken kariya
+	rejected
+	An ƙi amincewa
+	Reject
+	Ƙin amincewa
+	Always translate "reject" as "ƙin amincewa" not "ƙi"
+	Always translate "reject" as "ƙin amincewa" not "ƙi"
+	Wider audience
+	Masu sauraro da yawa
+	Exagerate
+	Wuce gona da iri
+	Exagerated
+	Wanda ya wuce gona da iri
+	Content containing exaggerated health claims
+	Abun ciki da ke ɗauke da iƙirarin lafiya da ya wuce gona da iri
+	navigate
+	juya
+	Dating
+	Samartaka
+	Ads manager
+	Manajan tallace-tallace
+	Newsletter
+	muhimman bayanan da aka buga
+	unusual
+	Abun da ba a saba gani ba
+	unusual activity
+	Ayyukan da ba a saba ba
+	We noticed unusual activity associated with your account.
+	Mun lura da wasu ayyukan da ba a saba ba masu alaƙa da asusunka.
+	To run ads, you need to have at least one verified payment method.
+	Domin gudanar da tallace-tallace, kana buƙatar samun aƙalla hanyar biyan kuɗi guda ɗaya da aka tantance.
+	Private profile
+	Furofayil ɗin sirri
+	Since you have a private profile, your activity will now be seen by your followers instead of just you. You can choose to hide activity for specific apps in Settings.
+	Tunda kana da furofayil ɗin sirri, mabiyanka za su ga ayyukanka yanzu maimakon kai kaɗai. Za ka iya zaɓar ɓoye ayyukan wasu manhajoji a Saituna.
+	Explicit content
+	Bayanan batsa
+	sales
+	sayarwa
+	sale
+	sayarwa
+	Always translate “sale” or “sales” as “sayarwa” not tallace-tallace
+	Always translate “sale” or “sales” as “sayarwa” not tallace-tallace
+	Always play it safe
+	Koyaushe ka yi taka-tsantsan.
+	unsupported
+	Rashin goyon baya
+	This payment method is unsupported
+	Ba a goyan bayan wannan hanyar biyan kuɗi
+	Legal entity
+	Ƙungiyar da ke da haƙƙin doka
+	legal
+	Na doka
+	Legal name
+	Sunan doka
+	Confirm legal owner
+	Tabbatar da wanda ya mallaka a doka
+	Not available
+	Babu shi
+	check-in
+	ziyara
+	Preference
+	Abin da aka fi so
+	Unsubscribed
+	An cire ragista
+	refresh
+	wartsake
+	Try refreshing the page to see your info.
+	Gwada wartsake shafin don ganin bayananka.
+	creativity
+	fasaha
+	{=This could be a scam.} Sellers asking you to call or text them can be a red flag. Report listing
+	{=This could be a scam.} Masu sayarwa da ke tambayar ka kira ko tura musu saƙo na iya zama alamar haɗari. Bayar da rahoton jerin abubuwan.
+	Red flag
+	Alamar haɗari
+	Great job! Your reach grew!
+	Madalla! Yawan mutanen da kake cimma sun ƙaru!
+	Partner Monetization Policies
+	Dokokin Haɗin Guiwar Samun Kuɗi Akan Kayayyaki
+	Decline 
+	Ƙin amincewa
+	This payment was declined by your payment provider
+	Mai samar da biyan kuɗinka ya ƙi amincewa da wannan biyan kuɗin
+	Your payment method was declined
+	An ƙi amincewa da hanyar biyan kuɗinka
+	Contact support
+	Tuntuɓi sashin bayar da taimako
+	interaction
+	tattaunawa
+	interactive
+	tattaunawa
+	You might like this post from {creator}, based on your recent interaction : {post content shortened}
+	Wataƙila za ka so wannan aike daga {creator}, bisa tattaunawarka ta kwanan nan: {post content shortened}
+	similar
+	Shige
+	The same
+	Iri ɗaya
+	Similar to your recent commented on: {post content shortened}
+	Shigen wanda kuka yi jawabi a kansa kwanan nan: {post content shortened}
+	Always translate “&” as “da”
+	Always translate “&” as “da”
+	&
+	da
+	Family & friends
+	Iyali da abokai
+	Visual Arts & Crafts
+	Zane-zane da Ƙirƙira
+	limit
+	iyakance
+	You already have the maximum number of accounts active
+	Ka riga ka mallaki yawan asusun da ke aiki
+	authentication
+	tantancewa
+	note
+	Taƙaitaccen rubutu
+	Write a note...
+	Rubuta Taƙaitaccen rubutu...
+	Data saver
+	Tattalin data
+	play
+	Kunna or kunnawa
+	Videos don’t auto-play in Feed
+	Bidiyoyi ba sa kunnawa kai tsaye a Sashin-Labarai
+	tag
+	maƙala
+	Tag me here
+	Maƙalani a nan
+	People will still be able to see public posts you're tagged in
+	Mutane za su iya ganin aiken kowa da kowa da aka maƙalaku
+	including
+	Haɗi da
+	Teens safety
+	Tsaron matasa
+	Activity log
+	Tarin aiki
+	enhancement
+	ƙawatawa
+	Making significant changes that add new information to someone else's content is meaningfully enhancing it. Here are some examples of how to do it right.
+	Yin canje-canje masu muhimmanci da ƙara sabbin bayanai ga abubuwan da wani ya ƙirƙira yana ƙawata shi sosai. Ga wasu misalan yadda ake yin hakan daidai.
+	meme
+	abun barkwanci
+	unlike
+	Fasa so
+	Available quests
+	Neme-nemen da ke akwai
+	Get started
+	Fara amfani
+	enforcement
+	tilastawa
+	owner
+	Wanda ya mallaka
+	Edit Owner Birthdate
+	Gyara Kwanan Watan Haihuwar Wanda ya mallaka
+	snooze
+	dakatar
+	theme
+	hoto
+	Sign up for Meta Verified
+	Yi rajistar Meta Verified
+	alert
+	Bayanan ankararwa
+	targeting
+	Wanda aka nufa
+	Target audience
+	
+
+	Choose where you want to show your ad. The more placements you select, the more opportunities you’ll have to reach your target audience.
+	Zaɓi inda kuke son nuna tallan ku. Ƙarin wuraren sanyawa da kuka zaɓa, ƙarin damammaki da za ku samu don cimma masu sauraron da kuka nufa.
+	Target audience
+	Masu sauraro da akayi nufin cimma
+	ad reach
+	 Adadin mutanen da suka ga talla
+
+
+	react
+	Mayar da martani
+	{alternate_persona_name} (You) and others reacted
+	{alternate_persona_name} (Kai) da wasu mutanen kun mayar da martani
+	entertainment
+	nishaɗantarwa
+	Let a Meta Business Partner help keep your customers engaged
+	A bari Abokin Kasuwancin Meta ya taimaka wajen ci gaba da jan hankalin abokan cinikinka
+	Step 2. Create ad that clicks to message
+	Mataki na 2. Ƙirƙiri tallan da ake dannawa don aikawa saƙo
+	Share your favorite spook-tacular moments using #{hashtag_name}! Gain new skills, build your audience and grow as a creator.
+	Raba abubuwan da suka fi birge ka masu ban tsoro ta amfani da #{hashtag_name}! Samu sabbin dabaru, gina masu sauraronka kuma ka bunƙasa a matsayinka na mai ƙirƙira.
+	Discount applied through {date}
+	Rangwame yana aiki har zuwa {date}
+	first-time subscriber
+	sabon mai yin rajista
+	As a first-time subscriber, you're saving {currency}/month for your first year.
+	A matsayinka na sabon mai yin rajista, kana adana {currency}/a wata na shekararka ta farko.
+	Marketplace
+	Marketplace
+	Always translate “Marketplace” as “Marketplace” not “Kasuwa” Never translate market place is a Name
+	
+
+	Your access to Marketplace is at risk. See why.
+	Shigarka cikin Marketplace na cikin haɗari. Duba dalili
+	Mobile device
+	naʼurar wayar tafi-da-gidanka
+	selfie
+	ɗaukan hoto da kanka
+	video selfie
+	bidiyon ɗauki-da-kanka
+	Home
+	Shafin farko
+	Back to home
+	Koma baya Shafin Farko
+	agree
+	yarda
+	You agree
+	Ka yarda
+	By tapping
+	Idan ka danna/ta hanyar danna
+	By tapping {=Submit}, you agree to create an account and to {app_name}'s {=Terms}, {=Privacy Policy} and {=Cookies Policy}.
+	Idan ka danna {=Submit}, ka yarda ka ƙirƙiri asusu kuma ka yarda da {=Terms} na {app_name}, {=Privacy Policy} da {=Cookies Policy}.
+	5-digit code
+	Lambobi 5
+	personal 
+	Na ƙashin kai
+	Personal information
+	Bayanan ƙashin kai
+	Are you sure?
+	Ka tabbatar?
+	We can
+	Za mu iya
+	Couldn't
+	An kasa
+	Couldn't sync profile info
+	An kasa daidaita bayanan furofayil
+	Email or Phone Number Limit Reached
+	An kai iyakar Imel ko Lambar Waya
+	Email is in use by another account
+	Ana amfani da Imel a wani asusun
+	financial products and services
+	kayayyaki da ayyukan da suka danganci kuɗi
+	To create a financial products and services ad to show in Taiwan
+	Don ƙirƙirar tallan kayayyaki da ayyukan da suka danganci kuɗi da za a nuna Taiwan
+	To create a financial products and services ad to show in Taiwan, you'll need to use a different Meta ad tool than WhatsApp.
+	Don ƙirƙirar tallan kayayyaki da ayyukan da suka danganci kuɗi da za a nuna a Taiwan, za ku buƙaci amfani da wani kayan aikin talla na Meta daban da WhatsApp.
+	You must verify the payer for a financial products and services ad to be delivered to audiences in Taiwan. You'll need to complete this verification on your computer.
+	Dole ne ka tantance mai biyan kuɗi don tallan kayayyaki da ayyukan kuɗi da za a isar ga masu sauraro a Taiwan. Za ku buƙaci kammala wannan tantancewa a kan kwamfutarka.
+	beneficiary
+	Mai amfana
+	scroll
+	jirga
+	Aquamarine
+	Shuɗi mai kama da kore
+	Save time
+	Rage ɓata lokaci
+	Save time by automating your messaging workflows such as lead qualification processes
+	Rage ɓata lokaci ta hanyar amfani da tsarin aiki kai-tsaye wajen aika saƙonni, kamar tantance waɗanda suka nuna sha'awa.
+	Professional services
+	Ayyukan ƙwararru
+	Checking/unchecking (like in marking a box)
+	Sanya alama/cire alama
+	install
+	girka
+	Get discovered
+	Jawo hankali
+	When you remove this account, your subscription to use our Products without ads will continue to apply to {primary_account_name}, and your subscription will decrease by {price_decrease}/month after you finalize your subscription details for this new price.
+	Idan ka cire wannan asusun, rijistarka ta ci gaba da amfani da Kayayyakinmu ba tare da tallace-tallace ba za ta ci gaba da aiki a kan {primary_account_name} kuma rijistarka za ta ragu da {price_decrease} a duk wata bayan ka kammala bayanan rijistarka na wannan sabon farashi.
+	discount
+	ragi
+	field
+	gurbi
+	upload
+	ɗora
+	contact
+	Aboki hulɗa
+	contacts
+	Abokan hulɗa
+	send
+	aika
+	sent
+	aika
+	This website looks suspicious
+	Wannan shafin yanar gizo yana kama da abin zargi
+	Partly False
+
+
+	Bayanin Ƙarya da Gaskiya
+	It looks like you shared something that includes information third-party fact checkers say is partly false.
+	Da alama ka raba wani abu da ya ƙunshi bayanin da masu binciken gaskiya na waje suka ce yana ɗauke da ƙarya da gaskiya.
+	Fact-checking
+	Bincika gaskiya
+	It looks like
+	Da alama
+	media
+	midiya
+	spam
+	Tarkacen saƙo
+	This looks like other content that goes against our Community Standards on prescription drugs.
+	Wannan yana kama da wani abun da ya saɓa wa Tsarin Rayuwar Al'ummarmu a kan magungunan da ake buƙatar takardar izini.
+	Manipulated media
+	Midiya da aka sauya
+	Historical artifacts
+	Tsofaffin kayan tarihi
+	To get paid
+	Domin samun biya
+	existing
+	Na yanzu
+	You're all set
+	Komai ya kammala/saitu
+	IG Affiliate Creator
+	Mai Ƙirƙira da ke da Haɗin Guiwa a IG
+	IG Affiliate Seller
+	Mai Sayarwa da ke da Haɗin Guiwa a FB
+	Data charges apply when you view GIFs on Facebook.
+	Ana sanya cajin Data yayin da ka kalli GIF a Facebook.
+	Ad credit
+	Kuɗin talla
+	A 30% Apple service fee applies when boosting in the Instagram iOS app
+	Kashi 30 na kuɗin aikin Apple zai yi aiki a yayin bunƙasawa a manhajar iOS ta Instagram
+	New look
+	sabon kamanni
+	An sabunta avatar ɗinka zuwa sabon kamanninsa. Zaka iya gyara shi a kowane lokaci.
+	Your avatar has been updated to its new look. You can edit it anytime.
+	version 
+	nauʼi
+	Your app version
+	Nauʼin manhajarka
+	Your ad account was created and linked to your business entity successfully.
+	An ƙirƙiri asusun tallanka kuma an yi nasarar haɗa shi da ƙungiyar kasuwancinka.
+	glorify
+	yabo
+	Glorifying a terrorist attack
+	Yabon harin ta'addanci
+	Maximum amount you can currently add to your available funds.
+	Mafi yawan adadin kuɗin da za ka iya ƙarawa a halin yanzu ga kuɗin da kake da su.
+	New ads about social issues, elections or politics can’t run in the US from Oct 29, 2024 until later this week.
+	Daga 29 ga watan Oktoba 2024 har zuwa ƙarshen wannan mako, sababbin tallace-tallace game da matsalolin zamantakewa, zaɓe ko siyasa ba za su iya gudana a Amurka ba.
+	new
+	Sabo (if one)
+	new
+	Sababbi (if plural)
+	Some audience selection options are unavailable or limited
+	Babu ko an taƙaita wasu zaɓuɓɓukan da masu sauraro za su zaɓa na tallace-tallace
+	New payment methods available
+	Sabbin hanyoyin biyan kuɗi da ake da su
+	available
+	Da ke akwai
+	Written consent
+	Rubutaccen izini
+	cost
+	farashi
+	Review team
+	ma'aikatan dake sake dubawa
+	Human review
+	mutane masu sake dubawa
+	spend
+	kashe
+	spent
+	kashe
+	ongoing
+	Mai gudana
+	Standard access
+	Tsayayyar damar shiga
+	build
+	gina
+	build
+	ginawa
+	building
+	ginawa
+	integrity teams
+	Ƙungiyar tabbatar da adalci
+	Technology is very good at detecting the same content over and over—millions of times, if necessary.
+	Fasaha tana da ƙwarewa sosai wajen gano abu iri ɗaya akai-akai—miliyoyin lokuta, idan ya zama dole.
+	Post suggestions are generated by AI.
+	AI ne ke samar da shawarwari dangane da aike.
+	What’s next:
+	Menene na gaba:
+	optional
+	Ba tilas ba
+	optional
+	ba tilas ba
+	Blocks are profile-specific and apply individually.
+	Toshewa ya danganta da furofayil kuma ana sanya su ne ga ɗaiɗaikun mutane.
+	Inspire others to Imagine with Meta AI
+	Zaburar da wasu don su ƙirƙiri abu da Meta AI
+	Unfortunately, your call was interrupted. Would you like to call again?
+	An yi rashin sa'a, an katse kiranka. Ko za ka sake kira?
+	View reel video with {number} views.
+	Kalli ɗan gajeren bidiyo da mutum {number} suka duba.
+	View reel video from {creator_name} with {number} view.
+	Kalli ɗan gajeren bidiyo daga {creator_name} da mutum {number} ya kalla.
+	Our technology
+	Fasaharmu
+	In gaming, this is the translation of character use for example: Characters are also known as non-player characters or NPCs. They’re characters usually found in games that aren’t controlled by another player. 
+	In gaming this is the translation of character used for example: Halittu a wasanni ana kuma saninsu da halittu marasa 'yan wasa ko kuma NPCs. Su ne halittun da aka saba samu a wasanni wadanda ba a sarrafa su ta wani ɗan wasa.
+	{first_name} asked you to review our updated {=Parent Privacy Disclosure} so that they can start using Meta Horizon again.
+	{first_name} ya nemi ka sake duba  abubuwanmmu da aka sabunta a {=Parent Privacy Disclosure} domin su sake fara amfani da Meta Horizon.
+	Oversight Board
+	Hukumar Sake Duba Abubuwa
+	policy advisory opinion
+	shawara a kan ra'ayin hukuma
+	Reference number
+	Lambar musamman
+	event
+	shaʼani
+	bylaw
+	dokar ƙungiya
+	Check
+	bincika
+	governance
+	gudanarwa
+	That way, Meta is not alone in making consequential decisions about speech, safety and dignity.
+	Ta wannan hanyar, Meta ba ita kaɗai ce ke yanke shawara masu mahimmanci game da magana, tsaro da mutunci ba.
+	Content moderation
+	daidaita bayanai
+	custom audience
+	Fasalin masu sauraro
+	topic
+	batu
+	Your post may go against our Community Standards on personal information
+	Ƙila aikenka ya karya dokar Tsarin Rayuwar Al'ummarmu a kan bayanan sirri
+	How
+	Ta yaya
+	deficient
+	illa
+	malware
+	malwaya
+	Due to a technical issue, some of your ads weren't charged between June
+      and October 2024. On {$statementDueDate}, we'll charge the total amount you owe
+      to your default payment method, or you can pay by selecting "Pay now".
+      View your updated statement to see all the unpaid ads.
+
+
+	Saboda matsalar fasaha, ba a caji kuɗin wasu daga cikin tallace-tallacenka ba tsakanin watan Yuni zuwa Oktoba 2024. A ranar {$statementDueDate}, za mu caji jimlar kuɗin da muke bin ka a kan hanyar biyan kuɗinka ta asali, ko kuma za ka iya biya ta hanyar zaɓar "Biya yanzu". Duba takardar kuɗinka da aka sabunta don ganin duk tallace-tallacen da ba a biya ba.
+	tap
+	taɓa
+	check
+	bincika
+	Consideration
+	Abin dubawa
+	More likely
+	Fin son
+	temporary
+	Wucin gadi
+	Deactivating your profile is temporary
+	Rufe furofayil ɗinka na wucin gadi ne
+	Always translate “Messenger” with capital in the beginning as “Messenger” as its app name not word
+	Do not translate: Messenger
+	Messenger
+	Messenger
+	Weʼre sorry
+	Muna bayar da haƙuri
+	We're sorry to see you go.
+	Muna bayar da haƙuri da muka ga cewa za ka tafi.
+	checkbox
+	akwatin bincike
+	placeholder
+	jumlar wucin gadi
+	Sustainability
+	Ɗorewa
+	Facebook Reels
+	'Yan gajerun bidiyoyin Facebook
+	earning
+	Samun kuɗi
+	Your earnings
+	Kuɗaɗen da ka samu
+	Your earnings are about to expire.
+	Kuɗaɗen da ka samu sun kusa gama aiki.
+	By selecting Link payout method, you’re authorizing Meta to send payouts to the bank account you’re linking.
+	Ta hanyar zaɓar Haɗa hanyar biyan kuɗi, kana ba Meta izinin aika biyan kuɗi zuwa asusun bankin da kake haɗawa.
+	Resolution
+	Girman abu
+	watermark
+	Alamar tambari
+	Eating disorder
+	Cutar cin abinci
+	Bullying
+	Wulaƙantawa
+	Restricted Goods and Services
+	Kayayyaki da Ayyukan Da Aka Taƙaice
+	Graphic content
+	Hoto mai ɗauke da bayani
+	psychedelic
+	Ƙwayoyin gudar da hankali
+	sensitive
+	sirri
+	suspicious
+	Abun zargi
+	plan
+	tsari
+	reactivate
+	Sake aikatawa
+	Log in
+	Shiga ciki
+	login
+	Shiga ciki
+	original
+	ainihi
+	original
+	Na ainihi
+	Your verification is pending
+	Tantancewarka na jira
+	verify
+	tantancewa
+	finish
+	kammala
+	To see the who can manage the financial information for this ad account
+	Domin ganin wanda zai iya kula da bayanan kuɗin wannan asusun talla
+	Daily spending limit
+	Iyakar kuɗin da za a kashe a rana
+	reset
+	sake saitawa
+	memory
+	Abun tunawa
+	This page isn't available right now
+	Babu Wannan Shafin a Halin Yanzu
+	unfollow
+	Fasa bi
+	shipping
+	Jigilar kaya
+	friend request
+	bukatar ƙara aboki
+	audio
+	sauti
+	voice
+	murya
+	Unfortunately
+	An yi rashin sa'a
+	Decision
+	Shawara
+	If you want to request a review of this decision
+	Idan kana buƙatar a saka duba wannan shawara
+	Your group
+	Ƙungiyarka
+	Your ad
+	Tallarka
+	Our technology found your group doesn't follow our Community Standards.
+	Fasaharmu ta gano ƙungiyarka ba ta bi Tsarin Rayuwar Al'ummarmu ba.
+	Our technology found your chat doesn't follow our Commerce Policies.
+	Fasaharmu ta gano taɗinka bai bi Dokokin Kasuwancinmu ba.
+	Our technology found your Page doesn't follow our Advertising Policies affecting business assets.
+	Fasaharmu ta gano Shafinka bai bi Dokokin Tallace-tallacenmu da ke shafar kadarorin kasuwanci ba.
+	As a result, third-party fact checkers took action.
+	Sakamakon haka, masu binciken gaskiya na waje sun ɗauki mataki.
+	payout
+	biya
+	do not delete your original group
+	kar ka goge ƙungiyarka ta ainihi
+	do not delete your original ad
+	kar ka goge tallarka ta ainihi
+	category
+	nauʼi
+	{3PFC} is certified by the International Fact-Checking Network.
+	An ba wa {3PFC} takardar shaida ta Cibiyar Bincika-Gaskiya ta Duniya.
+	Under penalties of perjury, I certify that: 1. the number entered in this flow is my correct taxpayer identification number (or I am waiting for a number to be issued to me) and 2. I am not subject to backup withholding because: (a) I am exempt from backup withholding or (b) I have not been notified by the Internal Revenue Service (IRS) that I am subject to backup withholding as a result of failure to report all interests or dividends or (c) the IRS has notified me that I am no longer subject to backup withholding and 3. I am a U.S. Citizen or other U.S. person.
+	A ƙarƙashin dokokin yin ƙarya da gangan, Na tabbatar cewa: 1. Lambar da na shigar a wannan wuri lambar biyan harajina ce daidai (ko ina jiran a ba ni lamba) kuma 2. Ni ba a samini takunkumin haraji ba saboda: (a) an cire ni daga takunkumin haraji ko (b) Hukumar Tattara Haraji (IRS) ba ta sanar da ni cewa an sa mini takunkumin haraji a sakamakon kasa kai rahoton duk kuɗin ruwa ko riba ba ko (c) Hukumar IRS ta sanar da ni cewa ni yanzu ba ni da takunkumin harajin kuma 3. Ni ɗan ƙasar Amurika ne ko wani mutumin Amurika.
+	Filter type by
+	Tace ta hanyar
+	clipboard
+	allon zane
+	Date range
+	Adadin kwanan wata
+	Meta Verified Standard
+	Tsayayyen Meta Verified
+	There are no pending requests to display.
+	Babu buƙatun da ke cikin jira da za a nuna.
+	There was an unexpected error
+	An samu matsala ba zato
+	Saturation
+	Cika launi
+	you'll be informed about it in an email and when you access your account in an app or web browser
+	za a sanar da kai game da shi a cikin imel da kuma lokacin da ka shiga asusunka a manhaja ko burauzar yanar gizo
+	Thanks
+	An gode
+	Will be set to Public
+	Zai kasance na kowa da kowa
+	Estimated
+	Wanda aka ƙiyasta
+	ID
+	ID
+	Charity Commission ID
+	ID ɗin Hukumar Agaji
+	Other government-issued tax ID
+	Wani ID ɗin haraji da gwamnati ta bayar
+	catalog
+	Jerin sunayen abubuwa
+	header
+	Kanun sama
+	Whatsapp Business
+	Whatsapp Business
+	variable
+	lamba
+	Your title can't include more than one variable
+	Takenku ba zai iya ɗaukar lamba fiye da ɗaya ba
+	backup code
+	lambar yin tsimi
+	recently liked your {=approval}
+	ya so {=approval} ɗinka kwanan nan
+	wowed your {=tag}
+	ya yi mamaki ga {=tag} ɗinka
+	short-sleeved dress shirt
+	riga mai gajeren hannu
+	Thanks for letting us know about the event you reported for containing theft or vandalism. We're following up with {owner_name} about this to make sure they know about our {Community Standards}. Your name was kept confidential.
+	Mun gode da sanar da mu game da sha'anin da ka bayar da rahotonsa wanda ya ƙunshi sata ko ɓarna. Muna bin diddigin {owner_name} game da wannan don mu tabbatar suna da masaniya game da Tsarin Rayuwar Al'ummarmu. An ɓoye sunanka.
+	Thanks for letting us know about the share you reported for containing suicidal content.We're following up with {owner_name} about this to make sure they know about our {Community Standards}. Your name was kept confidential.
+	Mun gode da sanar da mu game da rabawar da ka bayar da rahotonta wadda ta ƙunshi abubuwan da ke nuna kisan kai. Muna bin diddigin {owner_name} game da wannan don mu tabbatar suna da masaniya game da {Community Standards} ɗinmu. An ɓoye sunanka.
+	Thanks for letting us know about the post you reported for not having your permission to be posted.
+	Mun gode da sanar da mu game da aiken da ka bayar da rahotonsa wanda ba ka ba da izinin a aika shi ba.
+	Thanks for letting us know about the photo you reported for insulting someone you look up to.
+	Mun gode da sanar da mu game da hoton da ka bayar da rahotonsa na zagin wanda kake girmamawa.
+	Thanks for letting us know about the profile you reported for pretending to be you.
+	Mun gode da sanar da mu game da furofayil ɗin da ka bayar da rahotonsa saboda yin kamar kai ne.
+	Offsite Donation Terms
+	Sharuɗɗan Bayar da Gudummawa a Waje
+	Make sure you also review our {=Audience-based advertising} setting to make the right decisions about how your information is used.
+	Tabbatar ka sake duba saitunan {=Audience-based advertising} ɗinmu don yanke shawarar da ta dace game da yadda ake amfani da bayanan ka.
+	New messages will be sent once your’e connected
+	Za a aika sababbin saƙonni da zarar ka haɗa
+	We sourced a promotion from your ad inventory
+	Mun samo garaɓasa daga jerin tallanka
+	You're about to leave Messenger. Standard data charges may apply.
+	Kana dab da ficewa daga Messenger. Za a iya sanya tsayayyun cajin kuɗin data.
+	Your ads won't use info across all accounts from the advertiser audiences you chose to not allow
+	Tallace-tallacenka ba za su yi amfani da bayanai a faɗin duk asusun da ya kasance daga masu sauraron talla da ka zaɓi kada a yarda da su ba
+	Hospitality
+	Karamci
+	Code of Conduct
+	Dokar Gudanarwa
+	Your earnings
+	Ƙuɗaɗen da ka samu
+	Negative
+	Mara kyau
+	Positive
+	Mai kyau
+	You visited {number} years ago
+	Ka ziyarta shekaru {number} da suka wuce
+	You've restricted {full_name}. {first_name} may already be in this video call or could join.
+	Ka ƙayyade {full_name}. Ta yiwu dama {first_name} yana cikin wannan kira ko zai iya shiga.
+	Tap to get notified about new videos.
+	Taɓa don samun sanarwa game da sabbin bidiyoyi.
+	bookmark
+	maʼajiyar rubutu
+	Not supported
+	Baʼa goyon baya
+	Aspect ratio is not supported
+	Ba a goyon bayan adadin tsawo da faɗin hoton
+	Birthdate
+	Kwanan watan haihuwa
+	Your birthdate indicates that you're not old enough to use Marketplace.
+	Kwanan watan haihuwarka ya nuna cewa ba ka kai shekarun da za ka yi amfani da Marketplace.
+	Your pronoun, {pronoun}
+	Wakilin sunanka, {pronoun}
+	Build the future of human connection and the technology that makes it possible.
+	Gina makomar alaƙar ɗan adam tare da fasahar da ke ba da damar hakan.
+	[parent name] declined your request to change your unoriginal content and problematic sharing control on Facebook.
+	[parent name] ya ƙi amincewa da buƙatarka ta canja abubuwan da ba naka ba da kuma kula da yadda kake raba abubuwa masu matsala a Facebook.
+	respond
+	Ba da amsa
+	They have 1 day to respond to your invite before it expires.
+	Suna kwana 1 don ba da amsa ga gayyatarka kafin ta gama aiki.
+	Awaiting your approval
+	Ana jiran tabbatarwarka
+	connected experiences 
+	ƙwarewar da aka haɗe
+	To enable connected experiences, move these accounts into the same Accounts Center
+	Don kunna ƙwarewar da aka haɗe, matsar da waɗannan asusu zuwa cikin Cibiyar Asusu iri ɗaya
+	reviewer
+	mai sake dubawa
+	Our reviewer
+	Mai sake dubawarmu
+	A reviewer from our team checked your chat again.
+	Mai sake dubawa daga cikin ma'aikatanmu ya sake bincika taɗinka.
+	Third-party fact checkers reviewed your account again.
+	Masu binciken gaskiya na waje sun sake duba asusunka.
+	Add {name} as a friend to see more of her posts.
+	Ƙara {name} a matsayin abokiya don ganin ƙarin aiken ta.
+	We think your login details may have been shared online.
+	Muna tunanin yiwuwar an raba bayanan shigarka a intanet.
+	Supervise
+	Sa ido
+	Supervision
+	Sa ido
+	biometrics
+	bayanan yatsu da fuska
+	We restored the chat category in your group
+	Mun maido nau'in taɗin a ƙungiyarka
+	We'll post this when you have a stronger connection.
+	Za mu aika wannan yayin da ka samu haɗin intanet mai ƙarfi.
+	mute
+	Kashe sauti
+	They are no longer tagged in this post.
+	Yanzu ba a maƙala su a wannan aiken ba.
+	You're calling a group that includes people you've restricted. They will be rung and can join this call.
+	Kana kiran ƙungiya da ta haɗa da mutanen da ka ƙayyade. Za a kira su kuma za su iya shiga wannan kiran.
+	Mentions and tags have moved to Interactions
+	An matsar ambato da maƙalawa zuwa Tattaunawa
+	You're one of {name}'s first friends! Welcome him with a sticker on Messenger.
+	Kana daya daga cikin abokan farko na {name}! Yi masa barka da zuwa da sistika a kan messenger.
+	We know this is disappointing, but we want to keep the community informed.
+	Mun san wannan abin takaici ne, amma muna son ya zama al'umma na da masaniya.
+	click
+	latsa
+	tab
+	maɓallin shiga gurbi
+	Available payment methods
+	Hanyoyin biyan kuɗin da ake da su
+	wrinkles
+	tattarar fata
+	wrinkles
+	tattare-tattaren fata
+	side-by-side comparisons
+	kwatancen gefe da gefe
+	local non-governmental organizations
+	ƙungiyoyin sa-kai na gida
+	change
+	canza
+	Adding supervision is your choice
+	Ƙara sa-ido zaɓin ka ne
+	Security Checkup.
+	Binciken Tsaro.
+	If you already have a notable profile and an existing verified badge, you can still apply for a Meta Verified subscription.
+	Idan daman kana da sanannen furofayil kuma kana da bajen tantancewa, har yanzu za ka iya neman yin rajistar Meta Verified.
+	Copies of some material (example: log records) may remain in our database but are disassociated from personal identifiers.
+	Kwafin wasu kayayyaki (misali: bayanan shiga) za su iya zama a rumbun bayanan mu, amma za a cire musu bayanan gano mutum.
+	Tap {1>Save<1}
+	Taɓa {1>Adana<1}
+	Click {1>Save<1}
+	Latsa {1>Adana<1}
+	Save
+	Adana
+	Connected accounts
+	Asusun da aka haɗe
+	Connected experiences
+	Ƙwarewar da aka haɗe
+	well-lit room
+	ɗaki mai yalwar haske
+	 it will be encrypted
+	za a kare shi
+	two-factor authentication
+	tantancewar matakai-biyu
+	If you see a Page that interests you
+	Idan ka ga Shafi da kake sha'awa
+	your Feed
+	Sashin-Labaranka
+	preview
+	fara dubawa
+	Whatʼs on your mind?
+	Menene a zuciyarka?
+	Delete your language-specific name
+	Goge sunanka da ya keɓanta da harshe
+	Less protective
+	Marasa kariya sosai
+	help agent
+	wakilin da ke ba da taimako
+	Less strict
+	Ƙarancin tsauri
+	Less strict
+	Wanda bai da tsauri
+	role
+	matsayi
+	Upgraded profile features
+	Sigogin furofayil da aka sabunta
+	Meta Verified Business Max
+	Mafi ƙololuwar Tsarin Kasuwancin Meta Verified
+	Brand
+	Nauʼin kaya
+	Add images to your links so your profile looks more professional
+	Ƙara hotuna zuwa kafar furofayil ɗinka don ya ƙara zama na ƙwararru
+	Featured link
+	Kafar da aka haska
+	Get featured as Meta Verified business in Instagram and Facebook feeds.
+	Sami haskakawa a matsayin kasuwancin Meta Verified a cikin ɓangarorin labarai na Instagram da Facebook.
+	Add a header image to your links to showcase what your brand has to offer.
+	Ƙara hoton bayan bango a kafafenka don ka nuna abin da nau'in kayanka ke bayarwa.
+	Let your followers know it's the real you with a verified badge on your {platfrom} profile
+	Sanar da mabiyanka cewa kai ne na gaske tare da bajen tantancewa a furofayil ɗinka na {platfrom}
+	unmute
+	Dawo da magana
+	
+
+	
+
+	Posts with captions that encourage violence or attack anyone based on who they are.
+	Aike mai ɗauke da taken da ke ƙarfafa guiwa a kan rikici ko kai ma wani hari bisa la'aƙari da ko shi wane ne.
+	metrics
+	awo
+	The following metrics for ads that click to WhatsApp are temporarily unavailable: {=Messaging conversations started} and {=Cost per messaging conversation started}. Your ads will still be shown to people who are more likely to message you.
+	Waɗannan ma'aunan talla masu zuwa da ake dannawa don zuwa WhatsApp ba a samun su na wucin gadi: {=Messaging conversations started} da {=Cost per messaging conversation started}. Za a ci gaba da nuna tallace-tallacenka ga mutanen da yiwuwar su aika maka da saƙo ta fi yawa.
+	Your number of friends is {=Public}. If you set this to {=Only Me}, others may still see you're friends with someone when viewing their friends list. Mutual friends are always visible.
+	Yawan abokanka {=Public} ne. Idan ka saita wannan zuwa {=Only Me}, wasu za su iya ganin cewa kana abota da wani idan sun duba jerin sunayen abokansu. Abokan juna bayyane suke a koyaushe.
+	harmful racial stereotypes
+	 ra'ayoyin ƙabilanci masu cutarwa
+	unauthorized access
+	damar shiga da ba da izini ba
+	bug
+	kuskure
+	bubble
+	ƙwayaye
+	Make learning fun with polls and quizzes
+	Sanya koyo ya zama abin nishaɗi za tambayoyi
